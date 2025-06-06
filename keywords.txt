@@ -1,0 +1,2 @@
+DigiPIN	KEYWORD1
+getDigiPin	KEYWORD2
